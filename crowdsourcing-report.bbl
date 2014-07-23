@@ -1,5 +1,13 @@
 \begin{thebibliography}{}
 
+\bibitem[\protect\citeauthoryear{Ahmad and Kondrak}{Ahmad and
+  Kondrak}{2005}]{ahmad2005}
+Ahmad, F., and G.~Kondrak. 2005.
+\newblock Learning a spelling error model from search query logs.
+\newblock In {\em Proceedings of Human Language Technology Conference and
+  Conference on Empirical Methods in Natural Language}, Vancouver, Canada,
+  955--962.
+
 \bibitem[\protect\citeauthoryear{Brabham}{Brabham}{2008}]{brabham2008}
 Brabham, D.~C. 2008.
 \newblock Crowdsourcing as a model for problem solving: {An} introduction and
@@ -8,12 +16,40 @@ Brabham, D.~C. 2008.
   Media Technologies\/}~14 (1): 75--90.
 
 
+\bibitem[\protect\citeauthoryear{Deterding, Sicart, Nacke, O'Hara, and
+  Dixon}{Deterding et~al.}{2011}]{deterding2011}
+Deterding, S., M.~Sicart, L.~Nacke, K.~O'Hara, and D.~Dixon. 2011.
+\newblock Gamification: {Using} game-design elements in non-gaming contexts.
+\newblock In {\em CHI'11 Extended Abstracts on Human Factors in Computing
+  Systems}, Vancouver, Canada,  2425--2428.
+
 \bibitem[\protect\citeauthoryear{Doan, Ramakrishnan, and Halevy}{Doan
   et~al.}{2011}]{doan2011}
 Doan, A., R.~Ramakrishnan, and A.~Y. Halevy. 2011.
 \newblock Crowdsourcing systems on the {World-Wide Web}.
 \newblock {\em Communications of the ACM\/}~54 (4): 86--96.
 
+
+\bibitem[\protect\citeauthoryear{Fujinaga}{Fujinaga}{1996}]{fujinaga1996}
+Fujinaga, I. 1996.
+\newblock {\em Adaptive Optical Music Recognition}.
+\newblock Ph.\ D. thesis, Faculty of Music, McGill University, Montreal,
+  Quebec, Canada.
+
+\bibitem[\protect\citeauthoryear{Fuxman, Tsaparas, Achan, and Agrawal}{Fuxman
+  et~al.}{2008}]{fuxman2008}
+Fuxman, A., P.~Tsaparas, K.~Achan, and R.~Agrawal. 2008.
+\newblock Using the wisdom of the crowds for keyword generation.
+\newblock In {\em Proceedings of the 17th international conference on World
+  Wide Web}, Beijing, China,  61--70.
+
+\bibitem[\protect\citeauthoryear{Hankinson, Burgoyne, Vigliensoni, and
+  Fujinaga}{Hankinson et~al.}{2012}]{hankinson2012}
+Hankinson, A., J.~A. Burgoyne, G.~Vigliensoni, and I.~Fujinaga. 2012.
+\newblock Creating a large-scale searchable digital collection from printed
+  music materials.
+\newblock In {\em Proceedings of the 21st International Conference Companion on
+  World Wide Web}, Lyon, France,  903--908.
 
 \bibitem[\protect\citeauthoryear{Hankinson, Burgoyne, Vigliensoni, Porter,
   Thompson, Liu, Chiu, and Fujinaga}{Hankinson et~al.}{2012}]{hankinson2012b}
@@ -30,11 +66,31 @@ Holley, R. 2009.
 \newblock {\em National Library of Australia Staff Papers\/}.
 
 
+\bibitem[\protect\citeauthoryear{Holley}{Holley}{2010}]{holley2010}
+Holley, R. 2010.
+\newblock Crowdsourcing: {How} and why should libraries do it?
+\newblock {\em D-Lib Magazine\/}~16 (3/4).
+
+
 \bibitem[\protect\citeauthoryear{Howe}{Howe}{2006}]{howe2006}
 Howe, J. June 2006.
 \newblock The rise of crowdsourcing.
 \newblock {\em Wired\/}.
 
+
+\bibitem[\protect\citeauthoryear{Mandel and Ellis}{Mandel and
+  Ellis}{2008}]{mandel2008}
+Mandel, M.~I., and D.~P.~W. Ellis. 2008.
+\newblock A web-based game for collecting music metadata.
+\newblock {\em Journal of New Music Research\/}~37 (2): 151--165.
+
+
+\bibitem[\protect\citeauthoryear{von Ahn and Dabbish}{von Ahn and
+  Dabbish}{2004}]{ahn2004}
+von Ahn, L., and L.~Dabbish. 2004.
+\newblock Labeling images with a computer game.
+\newblock In {\em Proceedings of the SIGCHI conference on Human Factors in
+  Computing Systems}, Vienna, Austria,  319--326.
 
 \bibitem[\protect\citeauthoryear{von Ahn, Maurer, McMillen, Abraham, and
   Blum}{von Ahn et~al.}{2008}]{ahn2008}
