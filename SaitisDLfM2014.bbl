@@ -1,0 +1,142 @@
+\begin{thebibliography}{10}
+
+\bibitem{ahmad2005}
+F.~Ahmad and G.~Kondrak.
+\newblock Learning a spelling error model from search query logs.
+\newblock In {\em Proceedings of Human Language Technology Conference and
+  Conference on Empirical Methods in Natural Language}, pages 955--962,
+  Vancouver, Canada, 2005.
+
+\bibitem{brabham2008}
+D.~C. Brabham.
+\newblock Crowdsourcing as a model for problem solving: {An} introduction and
+  cases.
+\newblock {\em Convergence: The International Journal of Research into New
+  Media Technologies}, 14(1):75--90, 2008.
+
+\bibitem{brabham2013}
+D.~C. Brabham.
+\newblock {\em Crowdsourcing}.
+\newblock MIT Press, Cambridge, MA, 2013.
+
+\bibitem{burlet2012}
+G.~Burlet, A.~Porter, A.~Hankinson, and I.~Fujinaga.
+\newblock Neon.js: {Neume} editor online.
+\newblock In {\em Proceedings of the 13th International Society for Music
+  Information Retrieval Conference}, pages 121--126, Porto, Portugal, 2012.
+
+\bibitem{deterding2011}
+S.~Deterding, M.~Sicart, L.~Nacke, K.~O'Hara, and D.~Dixon.
+\newblock Gamification: {Using} game-design elements in non-gaming contexts.
+\newblock In {\em CHI'11 Extended Abstracts on Human Factors in Computing
+  Systems}, pages 2425--2428, Vancouver, Canada, 2011.
+
+\bibitem{doan2011}
+A.~Doan, R.~Ramakrishnan, and A.~Y. Halevy.
+\newblock Crowdsourcing systems on the {World-Wide Web}.
+\newblock {\em Communications of the ACM}, 54(4):86--96, 2011.
+
+\bibitem{droettboom2003}
+M.~Droettboom, K.~MacMillan, and I.~Fujinaga.
+\newblock The {Gamera} framework for building custom recognition systems.
+\newblock In {\em Symposium on Document Image Understanding Technologies},
+  pages 275--286, Greenbelt, MD, 2003.
+
+\bibitem{arolas2012}
+E.~Estell{\'e}s-Arolas and F.~G.-L. de~Guevara.
+\newblock Towards an integrated crowdsourcing definition.
+\newblock {\em Journal of Information Science}, 38(2):189--200, 2012.
+
+\bibitem{fuxman2008}
+A.~Fuxman, P.~Tsaparas, K.~Achan, and R.~Agrawal.
+\newblock Using the wisdom of the crowds for keyword generation.
+\newblock In {\em Proceedings of the 17th international conference on World
+  Wide Web}, pages 61--70, Beijing, China, 2008.
+
+\bibitem{geiger2011}
+D.~Geiger, S.~Seedorf, T.~Schulze, R.~Nickerson, and M.~Schader.
+\newblock Managing the crowd: {Towards} a taxonomy of crowdsourcing processes.
+\newblock In {\em Proceedings of the Seventeenth Americas Conference on
+  Information Systems}, page paper 430, Detroit, MI, 2011.
+
+\bibitem{hankinson2012}
+A.~Hankinson, J.~A. Burgoyne, G.~Vigliensoni, and I.~Fujinaga.
+\newblock Creating a large-scale searchable digital collection from printed
+  music materials.
+\newblock In {\em Proceedings of the 21st International Conference Companion on
+  World Wide Web}, pages 903--908, Lyon, France, 2012.
+
+\bibitem{hankinson2012b}
+A.~Hankinson, J.~A. Burgoyne, G.~Vigliensoni, A.~Porter, J.~Thompson, W.~Liu,
+  R.~Chiu, and I.~Fujinaga.
+\newblock Digital document image retrieval using optical music recognition.
+\newblock In {\em Proceedings of the 13th International Society for Music
+  Information Retrieval Conference}, pages 577--582, Porto, Portugal, 2012.
+
+\bibitem{holley2009}
+R.~Holley.
+\newblock Many hands make light work: {Public collaborative OCR text correction
+  in Australian historic newspapers}.
+\newblock {\em National Library of Australia Staff Papers}, 2009.
+
+\bibitem{holley2010}
+R.~Holley.
+\newblock Crowdsourcing: {How} and why should libraries do it?
+\newblock {\em D-Lib Magazine}, 16(3/4), 2010.
+
+\bibitem{howe2006nourl}
+J.~Howe.
+\newblock The rise of crowdsourcing.
+\newblock {\em WIRED magazine,}, 2006.
+
+\bibitem{kittur2013}
+A.~Kittur, J.~V. Nickerson, M.~S. Bernstein, E.~M. Gerber, A.~Shaw,
+  J.~Zimmerman, M.~Lease, and J.~J. Horton.
+\newblock The future of crowd work.
+\newblock In {\em Proceedings of the 16th ACM Conference on Computer Supported
+  Cooperative Work and Social Computing (CSCW)}, pages 1301--1317, San Antonio,
+  TX, 2013.
+
+\bibitem{mandel2008}
+M.~I. Mandel and D.~P.~W. Ellis.
+\newblock A web-based game for collecting music metadata.
+\newblock {\em Journal of New Music Research}, 37(2):151--165, 2008.
+
+\bibitem{pugin2007}
+L.~Pugin, J.~A. Burgoyne, and I.~Fujinaga.
+\newblock Reducing costs for digitising early music with dynamic adaptation.
+\newblock In L.~Kov{\'a}cs, N.~Fuhr, and C.~Meghini, editors, {\em Research and
+  Advanced Technology for Digital Libraries: Proceedings of the 11th European
+  Conference, ECDL 2007, Budapest, Hungary}, pages 471--474. Springer, Berlin
+  Heidelberg, 2007.
+
+\bibitem{pugin2008}
+L.~Pugin, J.~Hockman, J.~A. Burgoyne, and I.~Fujinaga.
+\newblock Gamera versus {Aruspix}: {Two} optical music recognition approaches.
+\newblock In {\em Proceedings of the 9th International Conference on Music
+  Information Retrieval}, pages 419--424, Philadelphia, PA, 2008.
+
+\bibitem{saxton2013}
+G.~D. Saxton, O.~Oh, and R.~Kishore.
+\newblock Rules of crowdsourcing: {Models, issues, and systems of control}.
+\newblock {\em Information Systems Management}, 30:2--20, 2013.
+
+\bibitem{shen2003}
+M.~Shen, G.-H. Tzeng, and D.-R. Liu.
+\newblock Multi-criteria task assignment in workflow management systems.
+\newblock In {\em Proceedings of the 36th Hawaii International Conference on
+  System Sciences}. IEEE, 2003.
+
+\bibitem{ahn2004}
+L.~von Ahn and L.~Dabbish.
+\newblock Labeling images with a computer game.
+\newblock In {\em Proceedings of the SIGCHI conference on Human Factors in
+  Computing Systems}, pages 319--326, Vienna, Austria, 2004.
+
+\bibitem{ahn2008}
+L.~von Ahn, B.~Maurer, C.~McMillen, D.~Abraham, and M.~Blum.
+\newblock {reCAPTCHA}: {Human-based} character recognition via web security
+  measures.
+\newblock {\em Science}, 321:1465--1468, 2008.
+
+\end{thebibliography}
