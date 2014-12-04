@@ -1,103 +1,445 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{55}
+\newcommand{\enquote}[1]{``#1''}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\noopsort}[1]{}
+\providecommand{\switchargs}[2]{#2#1}
 
-\bibitem[\protect\citeauthoryear{Ahmad and Kondrak}{Ahmad and
-  Kondrak}{2005}]{ahmad2005}
-Ahmad, F., and G.~Kondrak. 2005.
-\newblock Learning a spelling error model from search query logs.
-\newblock In {\em Proceedings of Human Language Technology Conference and
-  Conference on Empirical Methods in Natural Language}, Vancouver, Canada,
-  955--962.
+\bibitem[{Ahmad and Kondrak(2005)}]{ahmad2005}
+\bibinfo{author}{Ahmad, F.} and \bibinfo{author}{Kondrak, G.}
+  (\bibinfo{year}{2005}). \enquote{\bibinfo{title}{Learning a spelling error
+  model from search query logs}}, in \emph{\bibinfo{booktitle}{Proceedings of
+  Human Language Technology Conference and Conference on Empirical Methods in
+  Natural Language}}, \bibinfo{pages}{955--962} (\bibinfo{address}{Vancouver,
+  Canada}).
 
-\bibitem[\protect\citeauthoryear{Brabham}{Brabham}{2008}]{brabham2008}
-Brabham, D.~C. 2008.
-\newblock Crowdsourcing as a model for problem solving: {An} introduction and
-  cases.
-\newblock {\em Convergence: The International Journal of Research into New
-  Media Technologies\/}~14 (1): 75--90.
+\bibitem[{Aljanaki et~al.(2014)Aljanaki, Bountouridis, Burgoyne, Balen,
+  Wiering, Honing, and Veltkamp}]{aljanaki2014}
+\bibinfo{author}{Aljanaki, A.}, \bibinfo{author}{Bountouridis, D.},
+  \bibinfo{author}{Burgoyne, J.~A.}, \bibinfo{author}{Balen, J.~V.},
+  \bibinfo{author}{Wiering, F.}, \bibinfo{author}{Honing, H.}, and
+  \bibinfo{author}{Veltkamp, R.} (\bibinfo{year}{2014}).
+  \enquote{\bibinfo{title}{Designing games with a purpose for data collection
+  in music research. {Emotify} and hooked: {Two} case studies}}, in
+  \emph{\bibinfo{booktitle}{Revised Selected Papers from the Second
+  International Conference in Games and Learning Alliance (GALA 2013)}},
+  \bibinfo{pages}{29--40} (\bibinfo{address}{Paris, France}).
 
+\bibitem[{Alter(2008)}]{alter2008}
+\bibinfo{author}{Alter, S.} (\bibinfo{year}{2008}).
+  \enquote{\bibinfo{title}{Defining information systems as work systems:
+  implications for the {IS} field}}, \bibinfo{journal}{European Journal of
+  Information Systems} \bibinfo{volume}{17}, \bibinfo{pages}{448--469}.
 
-\bibitem[\protect\citeauthoryear{Deterding, Sicart, Nacke, O'Hara, and
-  Dixon}{Deterding et~al.}{2011}]{deterding2011}
-Deterding, S., M.~Sicart, L.~Nacke, K.~O'Hara, and D.~Dixon. 2011.
-\newblock Gamification: {Using} game-design elements in non-gaming contexts.
-\newblock In {\em CHI'11 Extended Abstracts on Human Factors in Computing
-  Systems}, Vancouver, Canada,  2425--2428.
+\bibitem[{Bernstein et~al.(2010)Bernstein, Little, Miller, Hartmann, Ackerman,
+  Karger, Crowell, and Panovich}]{bernstein2010}
+\bibinfo{author}{Bernstein, M.~S.}, \bibinfo{author}{Little, G.},
+  \bibinfo{author}{Miller, R.~C.}, \bibinfo{author}{Hartmann, B.},
+  \bibinfo{author}{Ackerman, M.~S.}, \bibinfo{author}{Karger, D.~R.},
+  \bibinfo{author}{Crowell, D.}, and \bibinfo{author}{Panovich, K.}
+  (\bibinfo{year}{2010}). \enquote{\bibinfo{title}{Soylent: {A} word processor
+  with a crowd inside}}, in \emph{\bibinfo{booktitle}{Proceedings of the 23rd
+  annual ACM symposium on User Interface Softare and Technology (UIST '10)}},
+  \bibinfo{pages}{313--322} (\bibinfo{address}{New York}).
 
-\bibitem[\protect\citeauthoryear{Doan, Ramakrishnan, and Halevy}{Doan
-  et~al.}{2011}]{doan2011}
-Doan, A., R.~Ramakrishnan, and A.~Y. Halevy. 2011.
-\newblock Crowdsourcing systems on the {World-Wide Web}.
-\newblock {\em Communications of the ACM\/}~54 (4): 86--96.
+\bibitem[{Bonney et~al.(2009)Bonney, Ballard, Jordan, McCallie, Phillips,
+  Shirk, and Wilderman}]{bonney2009}
+\bibinfo{author}{Bonney, R.}, \bibinfo{author}{Ballard, H.},
+  \bibinfo{author}{Jordan, R.}, \bibinfo{author}{McCallie, E.},
+  \bibinfo{author}{Phillips, T.}, \bibinfo{author}{Shirk, J.}, and
+  \bibinfo{author}{Wilderman, C.~C.} (\bibinfo{year}{2009}).
+  \enquote{\bibinfo{title}{Public participation in scientific research:
+  Defining the field and assessing its potential for informal science
+  education}}, \bibinfo{type}{Technical Report}, \bibinfo{institution}{Center
+  for Advancement of Informal Science Education (CAISE)},
+  \bibinfo{address}{Washington, DC}.
 
+\bibitem[{Brabham(2013)}]{brabham2013}
+\bibinfo{author}{Brabham, D.~C.} (\bibinfo{year}{2013}).
+  \emph{\bibinfo{title}{Crowdsourcing}} (\bibinfo{publisher}{MIT Press},
+  \bibinfo{address}{Cambridge, MA}).
 
-\bibitem[\protect\citeauthoryear{Fujinaga}{Fujinaga}{1996}]{fujinaga1996}
-Fujinaga, I. 1996.
-\newblock {\em Adaptive Optical Music Recognition}.
-\newblock Ph.\ D. thesis, Faculty of Music, McGill University, Montreal,
-  Quebec, Canada.
+\bibitem[{Brabham et~al.(2014)Brabham, Ribisl, Kirchner, and
+  Bernhardt}]{brabham2014}
+\bibinfo{author}{Brabham, D.~C.}, \bibinfo{author}{Ribisl, K.~M.},
+  \bibinfo{author}{Kirchner, T.~R.}, and \bibinfo{author}{Bernhardt, J.~M.}
+  (\bibinfo{year}{2014}). \enquote{\bibinfo{title}{Crowdsourcing applications
+  for public health}}, \bibinfo{journal}{American Journal of Preventive
+  Medicine} \bibinfo{volume}{46}, \bibinfo{pages}{179--187}.
 
-\bibitem[\protect\citeauthoryear{Fuxman, Tsaparas, Achan, and Agrawal}{Fuxman
-  et~al.}{2008}]{fuxman2008}
-Fuxman, A., P.~Tsaparas, K.~Achan, and R.~Agrawal. 2008.
-\newblock Using the wisdom of the crowds for keyword generation.
-\newblock In {\em Proceedings of the 17th international conference on World
-  Wide Web}, Beijing, China,  61--70.
+\bibitem[{Bratvold(2011)}]{bratvold2011}
+\bibinfo{author}{Bratvold, D.} (\bibinfo{year}{2011}).
+  \enquote{\bibinfo{title}{Defining crowdsourcing's taxonomy---a necessary
+  evil}},
+  \urlprefix\url{http://dailycrowdsource.com/content/crowdsourcing/660-crowd-leader-david-bratvold-defining-crowdsourcings-taxonomy-a-necessary-evil}.
 
-\bibitem[\protect\citeauthoryear{Hankinson, Burgoyne, Vigliensoni, and
-  Fujinaga}{Hankinson et~al.}{2012}]{hankinson2012}
-Hankinson, A., J.~A. Burgoyne, G.~Vigliensoni, and I.~Fujinaga. 2012.
-\newblock Creating a large-scale searchable digital collection from printed
-  music materials.
-\newblock In {\em Proceedings of the 21st International Conference Companion on
-  World Wide Web}, Lyon, France,  903--908.
+\bibitem[{Burgoyne et~al.(2013)Burgoyne, Bountouridis, Balen, and
+  Honing}]{burgoyne2013}
+\bibinfo{author}{Burgoyne, J.~A.}, \bibinfo{author}{Bountouridis, D.},
+  \bibinfo{author}{Balen, J.~V.}, and \bibinfo{author}{Honing, H.}
+  (\bibinfo{year}{2013}). \enquote{\bibinfo{title}{Hooked: {A} game for
+  discovering what makes music catchy}}, in
+  \emph{\bibinfo{booktitle}{Proceedings of the 14th International Society for
+  Music Information Retrieval Conference}}, \bibinfo{pages}{245--250}
+  (\bibinfo{address}{Curitiba, Brazil}).
 
-\bibitem[\protect\citeauthoryear{Hankinson, Burgoyne, Vigliensoni, Porter,
-  Thompson, Liu, Chiu, and Fujinaga}{Hankinson et~al.}{2012}]{hankinson2012b}
-Hankinson, A., J.~A. Burgoyne, G.~Vigliensoni, A.~Porter, J.~Thompson, W.~Liu,
-  R.~Chiu, and I.~Fujinaga. 2012.
-\newblock Digital document image retrieval using optical music recognition.
-\newblock In {\em Proceedings of the 13th International Society for Music
-  Information Retrieval Conference}, Porto, Portugal,  577--582.
+\bibitem[{Burlet et~al.(2012)Burlet, Porter, Hankinson, and
+  Fujinaga}]{burlet2012}
+\bibinfo{author}{Burlet, G.}, \bibinfo{author}{Porter, A.},
+  \bibinfo{author}{Hankinson, A.}, and \bibinfo{author}{Fujinaga, I.}
+  (\bibinfo{year}{2012}). \enquote{\bibinfo{title}{Neon.js: {Neume} editor
+  online}}, in \emph{\bibinfo{booktitle}{Proceedings of the 13th International
+  Society for Music Information Retrieval Conference}},
+  \bibinfo{pages}{121--126} (\bibinfo{address}{Porto, Portugal}).
 
-\bibitem[\protect\citeauthoryear{Holley}{Holley}{2009}]{holley2009}
-Holley, R. 2009.
-\newblock Many hands make light work: {Public collaborative OCR text correction
-  in Australian historic newspapers}.
-\newblock {\em National Library of Australia Staff Papers\/}.
+\bibitem[{Chanal and Caron-Fasan(2010)}]{chanal2010}
+\bibinfo{author}{Chanal, V.} and \bibinfo{author}{Caron-Fasan, M.-L.}
+  (\bibinfo{year}{2010}). \enquote{\bibinfo{title}{The difficulties involved in
+  developing models open to innovation communities: the case of a crowdsourcing
+  platform}}, \bibinfo{journal}{M@n@gement} \bibinfo{volume}{13},
+  \bibinfo{pages}{318--341}.
 
+\bibitem[{Cooper et~al.(2010)Cooper, Khatib, Treuille, Barbero, Lee, Beenen,
+  Leaver-Fay, Baker, and Popovic}]{cooper2010}
+\bibinfo{author}{Cooper, S.}, \bibinfo{author}{Khatib, F.},
+  \bibinfo{author}{Treuille, A.}, \bibinfo{author}{Barbero, J.},
+  \bibinfo{author}{Lee, J.}, \bibinfo{author}{Beenen, M.},
+  \bibinfo{author}{Leaver-Fay, A.}, \bibinfo{author}{Baker, D.}, and
+  \bibinfo{author}{Popovic, Z.} (\bibinfo{year}{2010}).
+  \enquote{\bibinfo{title}{Predicting protein structures with a multiplayer
+  online game}}, \bibinfo{journal}{Nature} \bibinfo{volume}{466},
+  \bibinfo{pages}{756--760}.
 
-\bibitem[\protect\citeauthoryear{Holley}{Holley}{2010}]{holley2010}
-Holley, R. 2010.
-\newblock Crowdsourcing: {How} and why should libraries do it?
-\newblock {\em D-Lib Magazine\/}~16 (3/4).
+\bibitem[{Corney et~al.(2009)Corney, Torres-Sanchez, Jagadeesan, and
+  Regli}]{corney2009}
+\bibinfo{author}{Corney, J.~R.}, \bibinfo{author}{Torres-Sanchez, C.},
+  \bibinfo{author}{Jagadeesan, A.~P.}, and \bibinfo{author}{Regli, W.~C.}
+  (\bibinfo{year}{2009}). \enquote{\bibinfo{title}{Outsourcing labour to the
+  cloud}}, \bibinfo{journal}{International Journal of Innovation and
+  Sustainable Development} \bibinfo{volume}{4}, \bibinfo{pages}{294--313}.
 
+\bibitem[{Denyer et~al.(2008)Denyer, Tranfield, and van Aken}]{denyer2008}
+\bibinfo{author}{Denyer, D.}, \bibinfo{author}{Tranfield, D.}, and
+  \bibinfo{author}{van Aken, J.~E.} (\bibinfo{year}{2008}).
+  \enquote{\bibinfo{title}{Developing design propositions through research
+  synthesis}}, \bibinfo{journal}{Organization Studies} \bibinfo{volume}{29},
+  \bibinfo{pages}{393--413}.
 
-\bibitem[\protect\citeauthoryear{Howe}{Howe}{2006}]{howe2006}
-Howe, J. June 2006.
-\newblock The rise of crowdsourcing.
-\newblock {\em Wired\/}.
+\bibitem[{Deterding et~al.(2011)Deterding, Sicart, Nacke, O'Hara, and
+  Dixon}]{deterding2011}
+\bibinfo{author}{Deterding, S.}, \bibinfo{author}{Sicart, M.},
+  \bibinfo{author}{Nacke, L.}, \bibinfo{author}{O'Hara, K.}, and
+  \bibinfo{author}{Dixon, D.} (\bibinfo{year}{2011}).
+  \enquote{\bibinfo{title}{Gamification: {Using} game-design elements in
+  non-gaming contexts}}, in \emph{\bibinfo{booktitle}{CHI'11 Extended Abstracts
+  on Human Factors in Computing Systems}}, \bibinfo{pages}{2425--2428}
+  (\bibinfo{address}{Vancouver, Canada}).
 
+\bibitem[{Doan et~al.(2011)Doan, Ramakrishnan, and Halevy}]{doan2011}
+\bibinfo{author}{Doan, A.}, \bibinfo{author}{Ramakrishnan, R.}, and
+  \bibinfo{author}{Halevy, A.~Y.} (\bibinfo{year}{2011}).
+  \enquote{\bibinfo{title}{Crowdsourcing systems on the {World-Wide Web}}},
+  \bibinfo{journal}{Communications of the ACM} \bibinfo{volume}{54},
+  \bibinfo{pages}{86--96}.
 
-\bibitem[\protect\citeauthoryear{Mandel and Ellis}{Mandel and
-  Ellis}{2008}]{mandel2008}
-Mandel, M.~I., and D.~P.~W. Ellis. 2008.
-\newblock A web-based game for collecting music metadata.
-\newblock {\em Journal of New Music Research\/}~37 (2): 151--165.
+\bibitem[{Erickson(2011)}]{erickson2011}
+\bibinfo{author}{Erickson, T.} (\bibinfo{year}{2011}).
+  \enquote{\bibinfo{title}{Some thoughts on a framework for crowdsourcing}}, in
+  \emph{\bibinfo{booktitle}{CHI 2011 Workshop on Crowdsourcing and Human
+  Computation}} (\bibinfo{address}{Vancouver, BC}).
 
+\bibitem[{Estell{\'e}s-Arolas and de~Guevara(2012)}]{arolas2012}
+\bibinfo{author}{Estell{\'e}s-Arolas, E.} and \bibinfo{author}{de~Guevara, F.
+  G.-L.} (\bibinfo{year}{2012}). \enquote{\bibinfo{title}{Towards an integrated
+  crowdsourcing definition}}, \bibinfo{journal}{Journal of Information Science}
+  \bibinfo{volume}{38}, \bibinfo{pages}{189--200}.
 
-\bibitem[\protect\citeauthoryear{von Ahn and Dabbish}{von Ahn and
-  Dabbish}{2004}]{ahn2004}
-von Ahn, L., and L.~Dabbish. 2004.
-\newblock Labeling images with a computer game.
-\newblock In {\em Proceedings of the SIGCHI conference on Human Factors in
-  Computing Systems}, Vienna, Austria,  319--326.
+\bibitem[{Fuxman et~al.(2008)Fuxman, Tsaparas, Achan, and Agrawal}]{fuxman2008}
+\bibinfo{author}{Fuxman, A.}, \bibinfo{author}{Tsaparas, P.},
+  \bibinfo{author}{Achan, K.}, and \bibinfo{author}{Agrawal, R.}
+  (\bibinfo{year}{2008}). \enquote{\bibinfo{title}{Using the wisdom of the
+  crowds for keyword generation}}, in \emph{\bibinfo{booktitle}{Proceedings of
+  the 17th international conference on World Wide Web}},
+  \bibinfo{pages}{61--70} (\bibinfo{address}{Beijing, China}).
 
-\bibitem[\protect\citeauthoryear{von Ahn, Maurer, McMillen, Abraham, and
-  Blum}{von Ahn et~al.}{2008}]{ahn2008}
-von Ahn, L., B.~Maurer, C.~McMillen, D.~Abraham, and M.~Blum. 2008.
-\newblock {reCAPTCHA}: {Human-based} character recognition via web security
-  measures.
-\newblock {\em Science\/}~{321}: 1465--1468.
+\bibitem[{Geerts(2009)}]{geerts2009}
+\bibinfo{author}{Geerts, S.~A.} (\bibinfo{year}{2009}).
+  \enquote{\bibinfo{title}{Discovering crowdsourcing: Theory, classification
+  and directions for use}}, Master's thesis, \bibinfo{school}{Dept.~of
+  Industrial Engineering and Innovation Sciences, Eindhoven University of
+  Technology}, \bibinfo{address}{Eindhoven, Netherlands}.
 
+\bibitem[{Geiger et~al.(2012)Geiger, Rosemann, Fielt, and Schader}]{geiger2012}
+\bibinfo{author}{Geiger, D.}, \bibinfo{author}{Rosemann, M.},
+  \bibinfo{author}{Fielt, E.}, and \bibinfo{author}{Schader, M.}
+  (\bibinfo{year}{2012}). \enquote{\bibinfo{title}{Crowdsourcing information
+  systems---{Definition, typology, and design}}}, in
+  \emph{\bibinfo{booktitle}{Proceedings of the Thirty Third International
+  Conference on Information Systems}} (\bibinfo{address}{Orlando, Florida}).
+
+\bibitem[{Geiger et~al.(2011)Geiger, Seedorf, Schulze, Nickerson, and
+  Schader}]{geiger2011}
+\bibinfo{author}{Geiger, D.}, \bibinfo{author}{Seedorf, S.},
+  \bibinfo{author}{Schulze, T.}, \bibinfo{author}{Nickerson, R.}, and
+  \bibinfo{author}{Schader, M.} (\bibinfo{year}{2011}).
+  \enquote{\bibinfo{title}{Managing the crowd: {Towards} a taxonomy of
+  crowdsourcing processes}}, in \emph{\bibinfo{booktitle}{Proceedings of the
+  Seventeenth Americas Conference on Information Systems}},
+  \bibinfo{pages}{paper 430} (\bibinfo{address}{Detroit, MI}).
+
+\bibitem[{Gomes et~al.(2012)Gomes, Schneide, Moraes, and de~Souza}]{gomes2012}
+\bibinfo{author}{Gomes, C.}, \bibinfo{author}{Schneide, D.},
+  \bibinfo{author}{Moraes, K.}, and \bibinfo{author}{de~Souza, J.}
+  (\bibinfo{year}{2012}). \enquote{\bibinfo{title}{Crowdsourcing for music:
+  {Survey} and taxonomy}}, in \emph{\bibinfo{booktitle}{Proceedings of the 2012
+  IEEE International Conference on Systems, Man, and Cybernetics}},
+  \bibinfo{pages}{832--839} (\bibinfo{address}{Seoul, Korea}).
+
+\bibitem[{Hankinson et~al.(2012)Hankinson, Burgoyne, Vigliensoni, Porter,
+  Thompson, Liu, Chiu, and Fujinaga}]{hankinson2012b}
+\bibinfo{author}{Hankinson, A.}, \bibinfo{author}{Burgoyne, J.~A.},
+  \bibinfo{author}{Vigliensoni, G.}, \bibinfo{author}{Porter, A.},
+  \bibinfo{author}{Thompson, J.}, \bibinfo{author}{Liu, W.},
+  \bibinfo{author}{Chiu, R.}, and \bibinfo{author}{Fujinaga, I.}
+  (\bibinfo{year}{2012}). \enquote{\bibinfo{title}{Digital document image
+  retrieval using optical music recognition}}, in
+  \emph{\bibinfo{booktitle}{Proceedings of the 13th International Society for
+  Music Information Retrieval Conference}}, \bibinfo{pages}{577--582}
+  (\bibinfo{address}{Porto, Portugal}).
+
+\bibitem[{Holley(2009)}]{holley2009}
+\bibinfo{author}{Holley, R.} (\bibinfo{year}{2009}).
+  \enquote{\bibinfo{title}{Many hands make light work: {Public collaborative
+  OCR text correction in Australian historic newspapers}}},
+  \bibinfo{journal}{National Library of Australia Staff Papers} .
+
+\bibitem[{Holley(2010)}]{holley2010}
+\bibinfo{author}{Holley, R.} (\bibinfo{year}{2010}).
+  \enquote{\bibinfo{title}{Crowdsourcing: {How} and why should libraries do
+  it?}}, \bibinfo{journal}{D-Lib Magazine} \bibinfo{volume}{16}.
+
+\bibitem[{Howe(2006)}]{howe2006}
+\bibinfo{author}{Howe, J.} (\bibinfo{year}{2006}). \enquote{\bibinfo{title}{The
+  rise of crowdsourcing}}, \bibinfo{journal}{WIRED magazine,}
+  \bibinfo{pages}{available at
+  \url{http://www.wired.com/wired/archive/14.06/crowds.html}}.
+
+\bibitem[{Howe(2008)}]{howe2008}
+\bibinfo{author}{Howe, J.} (\bibinfo{year}{2008}).
+  \emph{\bibinfo{title}{Crowdsourcing: Why the Power of the Crowd Is Driving
+  the Future of Business}} (\bibinfo{publisher}{Crown Business},
+  \bibinfo{address}{New York}).
+
+\bibitem[{Ipeirotis et~al.(2010)Ipeirotis, Provost, and Wang}]{ipeirotis2010}
+\bibinfo{author}{Ipeirotis, P.~G.}, \bibinfo{author}{Provost, F.}, and
+  \bibinfo{author}{Wang, J.} (\bibinfo{year}{2010}).
+  \enquote{\bibinfo{title}{Quality management on {Amazon Mechanical Turk}}}, in
+  \emph{\bibinfo{booktitle}{Proceedings of the ACM SIGKDD Workshop on Human
+  Computation HCOMP'10}}, \bibinfo{pages}{64--67}
+  (\bibinfo{address}{Washington, DC}).
+
+\bibitem[{Kittur et~al.(2013)Kittur, Nickerson, Bernstein, Gerber, Shaw,
+  Zimmerman, Lease, and Horton}]{kittur2013}
+\bibinfo{author}{Kittur, A.}, \bibinfo{author}{Nickerson, J.~V.},
+  \bibinfo{author}{Bernstein, M.~S.}, \bibinfo{author}{Gerber, E.~M.},
+  \bibinfo{author}{Shaw, A.}, \bibinfo{author}{Zimmerman, J.},
+  \bibinfo{author}{Lease, M.}, and \bibinfo{author}{Horton, J.~J.}
+  (\bibinfo{year}{2013}). \enquote{\bibinfo{title}{The future of crowd work}},
+  in \emph{\bibinfo{booktitle}{Proceedings of the 16th ACM Conference on
+  Computer Supported Cooperative Work and Social Computing (CSCW)}},
+  \bibinfo{pages}{1301--1317} (\bibinfo{address}{San Antonio, TX}).
+
+\bibitem[{Kosorukoff(2001)}]{kosorukoff2001}
+\bibinfo{author}{Kosorukoff, A.} (\bibinfo{year}{2001}).
+  \enquote{\bibinfo{title}{Human based genetic algorithm}}, in
+  \emph{\bibinfo{booktitle}{Proceedings of the 2001 IEEE International
+  Conference on Systems, Man, and Cybernetics}}, volume~\bibinfo{volume}{5},
+  \bibinfo{pages}{3464--3469} (\bibinfo{address}{Tucson, AZ}).
+
+\bibitem[{Law et~al.(2007)Law, von Ahn, Dannenberg, and Crawford}]{law2007}
+\bibinfo{author}{Law, E. L.~M.}, \bibinfo{author}{von Ahn, L.},
+  \bibinfo{author}{Dannenberg, R.~B.}, and \bibinfo{author}{Crawford, M.}
+  (\bibinfo{year}{2007}). \enquote{\bibinfo{title}{{TagATune: A game for music
+  and sound annotation}}}, in \emph{\bibinfo{booktitle}{Proceedings of the 8th
+  International Society for Music Information Retrieval Conference}},
+  \bibinfo{pages}{361--364} (\bibinfo{address}{Vienna, Austria}).
+
+\bibitem[{Lebraty and Lobre-Lebraty(2013)}]{lebraty2013}
+\bibinfo{author}{Lebraty, J.-F.} and \bibinfo{author}{Lobre-Lebraty, K.}
+  (\bibinfo{year}{2013}). \emph{\bibinfo{title}{Crowdsourcing: One Step
+  Beyond}} (\bibinfo{publisher}{Wiley \& ISTE}, \bibinfo{address}{London \&
+  Hoboken, NJ}).
+
+\bibitem[{Malone et~al.(2010)Malone, Laubacher, and Dellarocas}]{malone2010}
+\bibinfo{author}{Malone, T.~W.}, \bibinfo{author}{Laubacher, R.}, and
+  \bibinfo{author}{Dellarocas, C.} (\bibinfo{year}{2010}).
+  \enquote{\bibinfo{title}{The collective intelligence genome}},
+  \bibinfo{journal}{MIT Sloan Management Review} \bibinfo{volume}{51},
+  \bibinfo{pages}{21--31}.
+
+\bibitem[{Mandel and Ellis(2008)}]{mandel2008}
+\bibinfo{author}{Mandel, M.~I.} and \bibinfo{author}{Ellis, D. P.~W.}
+  (\bibinfo{year}{2008}). \enquote{\bibinfo{title}{A web-based game for
+  collecting music metadata}}, \bibinfo{journal}{Journal of New Music Research}
+  \bibinfo{volume}{37}, \bibinfo{pages}{151--165}.
+
+\bibitem[{Mason and Watts(2009)}]{mason2009}
+\bibinfo{author}{Mason, W.} and \bibinfo{author}{Watts, D.~J.}
+  (\bibinfo{year}{2009}). \enquote{\bibinfo{title}{Financial incentives and the
+  ``performance of crowds''}}, \bibinfo{journal}{ACM SIGKDD Explorations
+  Newsletter} \bibinfo{volume}{11}, \bibinfo{pages}{100--108}.
+
+\bibitem[{Nakatsu et~al.(2014)Nakatsu, Grossman, and Iacovou}]{nakatsu2014}
+\bibinfo{author}{Nakatsu, R.~T.}, \bibinfo{author}{Grossman, E.~B.}, and
+  \bibinfo{author}{Iacovou, C.~L.} (\bibinfo{year}{2014}).
+  \enquote{\bibinfo{title}{A taxonomy of crowdsourcing based on task
+  complexity}}, \bibinfo{journal}{Journal of Information Science}
+  \bibinfo{pages}{1--12}.
+
+\bibitem[{Nichols and Twidale(1997)}]{nichols1997}
+\bibinfo{author}{Nichols, D.~M.} and \bibinfo{author}{Twidale, M.~B.}
+  (\bibinfo{year}{1997}). \enquote{\bibinfo{title}{Computer supported
+  cooperative work and libraries}}, \bibinfo{journal}{VINE: The Journal of
+  Information and Knowledge Management Systems} \bibinfo{volume}{27},
+  \bibinfo{pages}{10--15}, \bibinfo{note}{available at
+  \url{http://www.comp.lancs.ac.uk/computing/research/cseg/projects/ariadne/docs/vine.html}}.
+
+\bibitem[{Oomen and Aroyo(2011)}]{oomen2011}
+\bibinfo{author}{Oomen, J.} and \bibinfo{author}{Aroyo, L.}
+  (\bibinfo{year}{2011}). \enquote{\bibinfo{title}{Crowdsourcing in the
+  cultural heritage domain: {Opportunities} and challenges}}, in
+  \emph{\bibinfo{booktitle}{Proceedings of the 5th International Conference on
+  Communities and Technologies}}, \bibinfo{pages}{138--149}
+  (\bibinfo{address}{Brisbane, Australia}).
+
+\bibitem[{Oomen et~al.(2014)Oomen, Gligorov, and Hildebrand}]{oomen2014}
+\bibinfo{author}{Oomen, J.}, \bibinfo{author}{Gligorov, R.}, and
+  \bibinfo{author}{Hildebrand, M.} (\bibinfo{year}{2014}).
+  \enquote{\bibinfo{title}{\emph{Waisda?}: {Making} videos findable through
+  crowdsourced annotations}}, in \emph{\bibinfo{booktitle}{Crowdsourcing our
+  Cultural Heritage}}, eds. \bibinfo{editor}{M.~Ridge}
+  (\bibinfo{publisher}{Ashgate}, \bibinfo{address}{Farnham, UK/Burlington,
+  VT}).
+
+\bibitem[{Pedersen et~al.(2013)Pedersen, Kocsis, Tripathi, Tarrell, Weerakoon,
+  Tahmasbi, Xiong, Deng, Oh, and deVreede}]{pedersen2013}
+\bibinfo{author}{Pedersen, J.}, \bibinfo{author}{Kocsis, D.},
+  \bibinfo{author}{Tripathi, A.}, \bibinfo{author}{Tarrell, A.},
+  \bibinfo{author}{Weerakoon, A.}, \bibinfo{author}{Tahmasbi, N.},
+  \bibinfo{author}{Xiong, J.}, \bibinfo{author}{Deng, W.}, \bibinfo{author}{Oh,
+  O.}, and \bibinfo{author}{deVreede, G.-J.} (\bibinfo{year}{2013}).
+  \enquote{\bibinfo{title}{Conceptual foundations of crowdsourcing: {A} review
+  of {IS} research}}, in \emph{\bibinfo{booktitle}{Proceedings of the 46th
+  Hawaii International Conference on System Sciences}},
+  \bibinfo{pages}{579--588} (\bibinfo{address}{Maui, HI}).
+
+\bibitem[{Quinn and Bederson(2011)}]{quinn2011}
+\bibinfo{author}{Quinn, A.~J.} and \bibinfo{author}{Bederson, B.~B.}
+  (\bibinfo{year}{2011}). \enquote{\bibinfo{title}{Human computation: {A}
+  survey and taxonomy of a growing field}}, in
+  \emph{\bibinfo{booktitle}{Proceedings of the ACM SIGCHI Conference on Human
+  Factors in Computing Systems (CHI 2011)}}, \bibinfo{pages}{1403--1412}
+  (\bibinfo{address}{Vancouver, BC}).
+
+\bibitem[{Rouse(2010)}]{rouse2010}
+\bibinfo{author}{Rouse, A.~C.} (\bibinfo{year}{2010}).
+  \enquote{\bibinfo{title}{A preliminary taxonomy of crowdsourcing}}, in
+  \emph{\bibinfo{booktitle}{Proceedings of the 21st Australasian Conference on
+  Information Systems}}, \bibinfo{pages}{paper 76} (\bibinfo{address}{Brisbane,
+  Australia}).
+
+\bibitem[{Saxton et~al.(2013)Saxton, Oh, and Kishore}]{saxton2013}
+\bibinfo{author}{Saxton, G.~D.}, \bibinfo{author}{Oh, O.}, and
+  \bibinfo{author}{Kishore, R.} (\bibinfo{year}{2013}).
+  \enquote{\bibinfo{title}{Rules of crowdsourcing: {Models, issues, and systems
+  of control}}}, \bibinfo{journal}{Information Systems Management}
+  \bibinfo{volume}{30}, \bibinfo{pages}{2--20}.
+
+\bibitem[{Schenk and Guittard(2011)}]{schenk2011}
+\bibinfo{author}{Schenk, E.} and \bibinfo{author}{Guittard, C.}
+  (\bibinfo{year}{2011}). \enquote{\bibinfo{title}{Towards a characterization
+  of crowdsourcing practices}}, \bibinfo{journal}{Journal of Innovation
+  Economics \& Management} \bibinfo{volume}{7}, \bibinfo{pages}{93--107}.
+
+\bibitem[{Shen et~al.(2003)Shen, Tzeng, and Liu}]{shen2003}
+\bibinfo{author}{Shen, M.}, \bibinfo{author}{Tzeng, G.-H.}, and
+  \bibinfo{author}{Liu, D.-R.} (\bibinfo{year}{2003}).
+  \enquote{\bibinfo{title}{Multi-criteria task assignment in workflow
+  management systems}}, in \emph{\bibinfo{booktitle}{Proceedings of the 36th
+  Hawaii International Conference on System Sciences}}
+  (\bibinfo{publisher}{IEEE}).
+
+\bibitem[{Surowiecki(2004)}]{surowiecki2004}
+\bibinfo{author}{Surowiecki, J.} (\bibinfo{year}{2004}).
+  \emph{\bibinfo{title}{The Wisdom of Crowds}} (\bibinfo{publisher}{Doubleday},
+  \bibinfo{address}{New York}).
+
+\bibitem[{Thuan et~al.(2013)Thuan, Antunes, and Johnstone}]{thuan2013}
+\bibinfo{author}{Thuan, N.~H.}, \bibinfo{author}{Antunes, P.}, and
+  \bibinfo{author}{Johnstone, D.} (\bibinfo{year}{2013}).
+  \enquote{\bibinfo{title}{Factors influencing the decision to crowdsource}},
+  in \emph{\bibinfo{booktitle}{Collaboration and Technology: Proceedings of the
+  19th International Conference, CRIWG 2013, Wellington, New Zealand, October
+  30--November 1, 2013}}, eds. \bibinfo{editor}{P.~Antunes},
+  \bibinfo{editor}{M.~A. Gerosa}, \bibinfo{editor}{A.~Sylvester},
+  \bibinfo{editor}{J.~Vassileva}, and \bibinfo{editor}{G.-J. deVreede},
+  \bibinfo{pages}{110--125} (\bibinfo{publisher}{Springer},
+  \bibinfo{address}{Berlin Heidelberg}).
+
+\bibitem[{von Ahn and Dabbish(2004)}]{ahn2004}
+\bibinfo{author}{von Ahn, L.} and \bibinfo{author}{Dabbish, L.}
+  (\bibinfo{year}{2004}). \enquote{\bibinfo{title}{Labeling images with a
+  computer game}}, in \emph{\bibinfo{booktitle}{Proceedings of the SIGCHI
+  conference on Human Factors in Computing Systems}}, \bibinfo{pages}{319--326}
+  (\bibinfo{address}{Vienna, Austria}).
+
+\bibitem[{von Ahn et~al.(2008)von Ahn, Maurer, McMillen, Abraham, and
+  Blum}]{ahn2008}
+\bibinfo{author}{von Ahn, L.}, \bibinfo{author}{Maurer, B.},
+  \bibinfo{author}{McMillen, C.}, \bibinfo{author}{Abraham, D.}, and
+  \bibinfo{author}{Blum, M.} (\bibinfo{year}{2008}).
+  \enquote{\bibinfo{title}{{reCAPTCHA}: {Human-based} character recognition via
+  web security measures}}, \bibinfo{journal}{Science} \bibinfo{volume}{321},
+  \bibinfo{pages}{1465--1468}.
+
+\bibitem[{Vukovic(2009)}]{vukovic2009}
+\bibinfo{author}{Vukovic, M.} (\bibinfo{year}{2009}).
+  \enquote{\bibinfo{title}{Crowdsourcing for enterprises}}, in
+  \emph{\bibinfo{booktitle}{Proceedings of the 2009 IEEE World Conference on
+  Services - I}}, \bibinfo{pages}{686--692} (\bibinfo{address}{Los Angeles,
+  CA}).
+
+\bibitem[{Wiggins and Crowston(2011)}]{wiggins2011}
+\bibinfo{author}{Wiggins, A.} and \bibinfo{author}{Crowston, K.}
+  (\bibinfo{year}{2011}). \enquote{\bibinfo{title}{From conservation to
+  crowdsourcing: {A} typology of citizen science}}, in
+  \emph{\bibinfo{booktitle}{Proceedings of the 44th Hawaii International
+  Conference on System Sciences}}, \bibinfo{pages}{1--10}
+  (\bibinfo{address}{Kauai, HI}).
+
+\bibitem[{Yuen et~al.(2011)Yuen, King, and Leung}]{yuen2011}
+\bibinfo{author}{Yuen, M.-C.}, \bibinfo{author}{King, I.}, and
+  \bibinfo{author}{Leung, K.-S.} (\bibinfo{year}{2011}).
+  \enquote{\bibinfo{title}{A survey of crowdsourcing systems}}, in
+  \emph{\bibinfo{booktitle}{Proceedings of the 3rd IEEE International
+  Conference on Privacy, Security, Risk and Trust (PASSAT) and 3rd IEEE
+  International Conference on Social Computing (SocialCom)}},
+  \bibinfo{pages}{766--773} (\bibinfo{address}{Boston, MA}).
+
+\bibitem[{Zhao and Zhu(2014)}]{zhao2014}
+\bibinfo{author}{Zhao, Y.} and \bibinfo{author}{Zhu, Q.}
+  (\bibinfo{year}{2014}). \enquote{\bibinfo{title}{Evaluation of crowdsourcing
+  research: Current status and future direction}},
+  \bibinfo{journal}{Information Systems Frontiers} \bibinfo{volume}{16},
+  \bibinfo{pages}{417--434}.
+
+\bibitem[{Zwass(2010)}]{zwass2010}
+\bibinfo{author}{Zwass, V.} (\bibinfo{year}{2010}).
+  \enquote{\bibinfo{title}{Co-creation: {Toward} a taxonomy and an integrated
+  research perspective}}, \bibinfo{journal}{International Journal of Electronic
+  Commerce} \bibinfo{volume}{15}, \bibinfo{pages}{11--48}.
 
 \end{thebibliography}
